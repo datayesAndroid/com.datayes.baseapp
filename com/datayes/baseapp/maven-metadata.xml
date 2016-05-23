@@ -5,16 +5,8 @@
   <versioning>
     <release>1.0.0</release>
     <versions>
-      <version>1.0</version>
-      <version>1.1</version>
-      <version>1.2</version>
-      <version>1.3</version>
-      <version>1.4</version>
-      <version>1.4.0</version>
-      <version>1.4.1</version>
-      <version>1.1.1</version>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20160523044713</lastUpdated>
+    <lastUpdated>20160523045139</lastUpdated>
   </versioning>
 </metadata>
