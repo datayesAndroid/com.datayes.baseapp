@@ -3,10 +3,31 @@
   <groupId>com.datayes</groupId>
   <artifactId>baseapp</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.1.1</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.2</version>
+      <version>1.0.3</version>
+      <version>1.0.4</version>
+      <version>1.0.5</version>
+      <version>1.0.6</version>
+      <version>1.0.7</version>
+      <version>1.0.8</version>
+      <version>1.0.9</version>
+      <version>1.0.10</version>
+      <version>1.0.11</version>
+      <version>1.0.12</version>
+      <version>1.0.13</version>
+      <version>1.0.14</version>
+      <version>1.0.15</version>
+      <version>1.0.16</version>
+      <version>1.0.17</version>
+      <version>1.0.18</version>
+      <version>1.0.19</version>
+      <version>1.1.0</version>
+      <version>1.0.20</version>
+      <version>1.1.1</version>
     </versions>
-    <lastUpdated>20160523045139</lastUpdated>
+    <lastUpdated>20160901072615</lastUpdated>
   </versioning>
 </metadata>
